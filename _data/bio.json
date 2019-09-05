@@ -26,6 +26,11 @@
         "url": "http://linkedin.com/in/jayryanjamorabon"
       },
       {
+        "network": "twitter",
+        "username": "",
+        "url": ""
+      },
+      {
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
@@ -34,20 +39,47 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Computer networking",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "cisco",
+        "networking",
+        "networks",
+        "routing",
+        "ip",
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
+        "programming",
+        "program",
+        "software"
+        "dev",
+        "java"
+        "c++",
+        "c",
+        "python"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "malware analysis",
       "keywords": [
+        "virus",
+        "malware",
+        "ransomware",
+        "analysis",
+        "reverse-engineering",
+        "ida",
+        "assembly",
+        "windows"
+      ]
+    },
+    {
+      "name": "cyber security",
+      "keywords": [
+        "hacking",
+        "security",
+        "penetration-testing"
       ]
     }
   ],
