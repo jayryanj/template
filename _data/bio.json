@@ -6,7 +6,7 @@
     "email": "jayryanj@hawaii.edu",
     "phone": "",
     "website": "https://jayryanj.github.io",
-    "summary": "Undergraduate student at the University of Hawaii at Manoa pursuing a BS in Computer Science - Security Science and an aspiring security engineer/researcher. Long-term computer enthusiast with very strong interests in information technology, software development/engineering, computer architecture, computer networking, web development, malware analysis, and cyber security.",
+    "summary": "Undergraduate student at the University of Hawaii at Manoa pursuing a BS in Computer Science - Security Science and an aspiring security engineer/researcher.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,13 +22,13 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Jay Ryan Jamorabon",
         "url": "http://linkedin.com/in/jayryanjamorabon"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
