@@ -2,14 +2,14 @@
   "basics": {
     "name": "Jay Ryan Jamorabon",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://jayryanj.github.io/images/IMG_1014-2.jpg",
     "email": "jayryanj@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://jayryanj.github.io",
     "summary": "Undergraduate student at the University of Hawaii at Manoa pursuing a BS in Computer Science - Security Science and an aspiring security engineer/researcher. Long-term computer enthusiast with very strong interests in information technology, software development/engineering, computer architecture, computer networking, web development, malware analysis, and cyber security.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jayryanj",
+        "url": "http://github.com/jayryanj"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/jayryanjamorabon"
       },
       {
         "network": "twitter",
