@@ -96,15 +96,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publicationsssss",
-      "position": "Web Developer",
+      "company": "National Astronomical Observatory of Japan - Subaru Telescope",
+      "position": "Software Engineering Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-06-16",
+      "endDate": "2019-08-14",
+      "summary": "Intern for the Instruments Division",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed an integrated status monitor for the telescope's Hyper-Suprime Cam instrument system to monitor parameters such as the shutter position, filter exchange unit, and data read-out during observation.",
+        "Collaborated with a team of astronomers and instrument research specialist to design the implementation and graphical user interface of the software."
       ]
     },
     {
