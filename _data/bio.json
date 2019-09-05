@@ -124,15 +124,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "GenCyber",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2018-06-04",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Student Volunteer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Assisted educators and staff with a cyber-security-related curriculum for student attendees.",
+        "Helped high school students learn basic cyber security principles, networking, cryptography, coding, and computer forensics."
       ]
     },
     {
