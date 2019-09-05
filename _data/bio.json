@@ -39,14 +39,12 @@
   },
   "interests": [
     {
-      "name": "Computer networking",
+      "name": "computer networking",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
