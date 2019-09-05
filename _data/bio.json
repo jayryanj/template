@@ -108,7 +108,7 @@
     {
       "name": "Reverse Engineering",
       "level": "",
-      "keywords: [
+      "keywords": [
         "IDA",
         "x64dbg",
         "Procmon",
