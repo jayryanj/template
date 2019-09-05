@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Jay Ryan Jamorabon",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "/images/IMG_1014-2.jpg",
-    "email": "jayryanj@hawaii.edu",
-    "phone": "",
-    "website": "https://jayryanj.github.io",
-    "summary": "Undergraduate student at the University of Hawaii at Manoa pursuing a BS in Computer Science - Security Science and an aspiring security engineer/researcher.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,18 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "jayryanj",
-        "url": "http://github.com/jayryanj"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "Jay Ryan Jamorabon",
-        "url": "http://linkedin.com/in/jayryanjamorabon"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "",
-        "url": ""
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
@@ -39,47 +39,20 @@
   },
   "interests": [
     {
-      "name": "Computer networking",
+      "name": "internet of things",
       "keywords": [
-        "cisco",
-        "networking",
-        "networks",
-        "routing",
-        "ip",
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "software engineering",
+      "name": "data mining",
       "keywords": [
-        "programming",
-        "program",
-        "software"
-        "dev",
-        "java"
-        "c++",
-        "c",
-        "python"
       ]
     },
     {
-      "name": "malware analysis",
+      "name": "artificial intelligence",
       "keywords": [
-        "virus",
-        "malware",
-        "ransomware",
-        "analysis",
-        "reverse-engineering",
-        "ida",
-        "assembly",
-        "windows"
-      ]
-    },
-    {
-      "name": "cyber security",
-      "keywords": [
-        "hacking",
-        "security",
-        "penetration-testing"
       ]
     }
   ],
@@ -92,35 +65,26 @@
         "C++",
         "Java",
         "Javascript",
-        "x86 Assembly",
-        "Python"
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
+        "MacOS",
         "Ubuntu",
-        "Kali Linux"
-      ]
-    },
-    {
-      "name": "Reverse Engineering",
-      "level": "",
-      "keywords": [
-        "IDA",
-        "x64dbg",
-        "Procmon",
-        "Ollydbg",
-        "Wireshark",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science - Security Science(expected Spring, 2021)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
@@ -131,53 +95,70 @@
   ],
   "work": [
     {
-      "company": "National Astronomical Observatory of Japan - The Subaru Telescope",
-      "position": "Software Engineering Intern",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2019-06-16",
-      "endDate": "2019-08-14",
-      "summary": "Software engineering intern for the Instruments Division",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Developed an integrated status monitor for the telescope's Hyper-Suprime Cam instrument system to monitor parameters such as the shutter position, filter exchange unit, and data read-out during observation.",
-        "Collaborated with a team of astronomers and instrument research specialist to design the implementation and graphical user interface of the software."
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
       "company": "UH Information Technology Services",
-      "position": "Data Center Tech",
+      "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2018-07-06",
-      "endDate": "present",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Worked as part of a team to support and maintain the University of Hawaii data center operations.",
-        "Regularly installed network devices and equipment to uphold the university's technology infrastructure.",
-        "Use data center management software to track network devices and audit hardware.",
-        "Network monitoring and troubleshooting"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "GenCyber",
-      "website": "",
-      "position": "Volunteer",
-      "startDate": "2018-06-04",
-      "endDate": "2018-06-09",
-      "summary": "",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Assisted educators and staff with a cyber-security-related curriculum for student attendees.",
-        "Helped high school students learn basic cyber security principles, networking, cryptography, coding, and computer forensics."
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
   ],
   "awards": [
     {
-      "title": "S.T.A.R Academic Recognition - American Studies",
-      "date": "2018-05-20",
-      "awarder": "Honolulu Community College",
-      "summary": "Award recognizing academic excellence and contribution in American Studies."
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
   ],
   "references": [
     {
