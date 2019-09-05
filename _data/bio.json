@@ -3,9 +3,9 @@
     "name": "Jay Ryan Jamorabon",
     "label": "Student",
     "picture": "images/IMG_1014-2.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "jayryanj@hawaii.edu",
+    "phone": "",
+    "website": "https://jayryanj.github.io",
     "summary": "Undergraduate student at the University of Hawaii at Manoa pursuing a BS in Computer Science - Security Science and an aspiring security engineer/researcher.",
     "location": {
       "address": "",
@@ -76,20 +76,18 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Kali Linux"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science - Security Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
