@@ -7,10 +7,10 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-14
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Software
+  - Python
+  - Astronomy
+summary: I developed an integrated status monitor for the Subaru Telescope's Hyper-Suprime Cam instrument.
 ---
 
 <div class="ui small rounded images">
