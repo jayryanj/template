@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/telescope.jpg
-title: Micromouse
+title: HSC Status Monitor
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-14
