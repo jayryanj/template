@@ -15,11 +15,16 @@ labels:
 summary: An analysis of a trojan variant of the Tempedreve malware.
 ---
 
-<img class="ui large right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui large right floated rounded image" src="../images/x64dbg_square.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Malware analysis is often performed quickly through services, commercial sandboxes, or quick dynamic analysis to collect IoCs or artifacts to be used in an intrusion detection system. Malware samples, like most complicated software, typically has too many details to individually inspect within a reasonable amount of time in a work environment.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I had picked up the hobby of reverse engineering malware to inspect its details and understand its malicious techniques. Shortly after starting malware analysis, I downloaded a sample of a trojanized Tempedreve variant under the executable file name "33.pdf". I used static and dynamic analysis techniques to observe the sample's behavior.
+
+Before running the sample, I used several tools such as PEview, CFF Explorer, BinText, and PEiD to perform basic static analysis on the file in a Windows 10 virtual machine. I managed to discover information such as the executable's creation date (January 23, 2015), its obfuscation techniques such as packing the file's .rsrc and .text sections, function imports (limited imports since it was packed), and its use of API calls for anti-debugging. I also managed to detect that it would spawn several other processes and query the Windows Registry for key values. From the basic static analysis, I collected several indicators to watch during dynamic analysis.
+
+Here is a picture of the time date stamp in the PE file header:
+<img src="../images/pe_time.png">
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
