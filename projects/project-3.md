@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/beach_gui.png
+image: images/beach.jpeg
 title: Hawaii Beach Conditions
 permalink: projects/hawaii-beach-conditions
 # All dates must be YYYY-MM-DD format!
