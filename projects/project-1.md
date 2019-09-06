@@ -15,8 +15,8 @@ summary: Developed an integrated status monitor for the Subaru Telescope's Hyper
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/telescope.jpg">
-  <img class="ui image" src="../images/hsc.jpg">
-  <img class="ui image" src="../images/left.png">
+  <img class="ui image" src="../images/Instrument.jpg">
+  <img class="ui image" src="../images/HSC_Monitor.png">
   <img class="ui image" src="../images/right.png">
 </div>
 
@@ -25,18 +25,3 @@ The Hyper-Suprime Cam (HSC) is a large mosaic CCD imager instrument for the Suba
 As a software engineering intern for the organization, I worked under the Instruments division to develop an integrated status monitor for the Hyper-Suprime Cam. Using Python, I created a graphical user-interface with Tkinter to replace the system's CLI. I chose Tkinter to minimalize third-party imports. The software also provides centralized status monitoring functionality by integrating all the necessary information and pre-existing tools in one program. This feature automates the process of monitoring the shutter position, filter exchange unit, and read-out status for the astronomers.
 
 Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
