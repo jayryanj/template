@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/hawaiian_beach.jpg
-title: Hawaii Beach Conditions
+title: Hawaii Beach Conditionsa
 permalink: projects/hawaii-beach-conditions
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-26
