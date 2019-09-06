@@ -1,17 +1,18 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/x64dbg_square.png
+title: Tempedreve Malware Analysis
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-08-19
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Malware
+  - Security
+  - Reverse-Engineering
+  - Analysis
+  - x86
+summary: An analysis of a trojan variant of the Tempedreve malware.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
