@@ -26,6 +26,8 @@ Before running the sample, I used several tools such as PEview, CFF Explorer, Bi
 Here is a picture of the time date stamp in the PE file header:
 <img src="../images/pe_time.png">
 
-I performed basic dynamic analysis by simply running the executable while monitoring Windows Registry changes and process activity. I observed that attempting to open "33.pdf" will create a temporary PDF file in the %AppData% folder with the name format "~\[Random alphanumerics].tmp.pdf"
+I performed basic dynamic analysis by simply running the executable while monitoring Windows Registry changes and process activity. I observed that attempting to open "33.pdf" will create a temporary PDF file in the %AppData% folder with the name format "~\[RANDOM ALPHANUMERICS].tmp.pdf". The PDF will be of this document:
+
+<image src="../images/pdf.png">
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
