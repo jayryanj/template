@@ -22,6 +22,6 @@ During my free time, I developed a small program called <em>Hawaii Beach Conditi
 
 Some of the information include the beach's name, island, weather, wind , temperature, and surf.
 
-The program was developed in Python 3. The code uses the Hawaii Beach Safety API which returns a JSON containing data on every major beach in Oahu, Maui, Kauai, and the Big Island. The other Hawaiian islands are not options because they are not included in the data returned by the API. Some features planned that I have planned for future development includes a graph that displays the wave height, replacing the table with a nicer design, in-depth weather forecast for the entire day, and images of each beach.
+The program was developed in Python 3. The code uses the Hawaii Beach Safety API which returns a JSON containing data on every major beach in Oahu, Maui, Kauai, and the Big Island. The other Hawaiian islands are not options because they are not included in the data returned by the API. Some features that I have planned for future development includes a graph that displays the wave height, replacing the table with a nicer design, in-depth weather forecast for the entire day, and images of each beach.
 
 The code will be available through GitHub soon.
