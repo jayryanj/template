@@ -10,7 +10,7 @@ labels:
   - Software
   - Python
   - Astronomy
-summary: I developed an integrated status monitor for the Subaru Telescope's Hyper-Suprime Cam instrument.
+summary: Developed an integrated status monitor for the Subaru Telescope's Hyper-Suprime Cam instrument.
 ---
 
 <div class="ui small rounded images">
