@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/subaru-1.jpg
+image: images/telescope.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -14,9 +14,10 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/subaru-1.jpg">
-  <img class="ui image" src="../images/HSC_Monitor.png">
-  <img class="ui image" src="../images/Filter.png">
+  <img class="ui image" src="../images/telescope.jpg">
+  <img class="ui image" src="../images/hsc.jpg">
+  <img class="ui image" src="../images/left.png">
+  <img class="ui image" src="../images/right.png">
 </div>
 
 The Hyper-Suprime Cam (HSC) is a large mosaic CCD imager instrument for the Subaru Telescope. It's one of the main instruments for the organization because it's so actively used—it takes up roughly 40% of Subaru’s observation time—and it yields very significant scientific results. However, operating and monitoring the instrument during observation are difficult tasks for astronomers because of its command-line interface (CLI) and the need for manual inspection.
