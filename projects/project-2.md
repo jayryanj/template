@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/x64dbg_square.png
 title: Tempedreve Malware Analysis
-permalink: projects/vacay
+permalink: projects/tempedreve-malware
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-19
 labels:
@@ -15,7 +15,7 @@ labels:
 summary: An analysis of a trojan variant of the Tempedreve malware.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui large right floated rounded image" src="../images/vacay-home-page.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
