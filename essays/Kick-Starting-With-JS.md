@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Kick-Starting With JS
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2019-09-06
 labels:
   - Software Engineering
   - Learning
