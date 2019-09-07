@@ -25,3 +25,5 @@ As a software engineering intern for the organization, I worked under the Instru
 Here is the flowchart that illustrates the procedure for monitoring the data read-out during observation:
 
 <img class="ui image" src="../images/Read.png">
+
+From this project, I learned a lot about the software engineering process. I went through stages of planning, collaborating with users, development, unit testing, and documentation. I learned how to effectively communicate in a team with members that have a variety of backgrounds. After the project was completed, I presented my work in front of a crowd. This gave me very valuable experience with communicating technical aspects of a project. 
