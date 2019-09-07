@@ -24,37 +24,32 @@
         "network": "linkedin",
         "username": "Jay Ryan Jamorabon",
         "url": "http://linkedin.com/in/jayryanjamorabon"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "computer networking",
+      "name": "Computer Networking",
       "keywords": [
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "malware analysis",
+      "name": "Information Technology",
       "keywords": [
       ]
     },
     {
-      "name": "cyber security",
+      "name": "Malware Analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cyber Security",
       "keywords": [
       ]
     }
