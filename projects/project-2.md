@@ -32,5 +32,5 @@ I performed basic dynamic analysis by simply running the executable while monito
  
 However, I managed to see that there was a lot more going on in the background than a simple PDF document. In conjunction with advanced dynamic analysis with x64dbg, I saw that it would actually drop several files in the AppData\Roaming folder and create two new processes labeled "dosknet.exe" and "bitsepad.exe". Next, the malware would change several Registry values for persistence, check for debugger, read system information (computer name, users, mouse type, keyboard type, language, etc.), inject into several remote processes using application shimming, attempt a heap spray, and edit PDF registry values.
 
-This was one of my first times analyzing malware. I learned a lot about the complicatios of the process, the pros and cons of the various tools, Windows registry, and several malicious techniques. 
+This was one of my first times analyzing malware. I learned a lot about the complications of the process, the pros and cons of the various tools, Windows registry, and several malicious techniques. I gained a lot of first-hand experience with malware samples and their capabilities.
 
