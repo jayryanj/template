@@ -27,16 +27,27 @@ This question, (link to other question) Is “double hashing” a password less 
 
 I'm using PHP. I want a safe and fast password encryption system. Hashing a password a million times may be safer, but also slower. How to achieve a good balance between speed and safety? Also, I'd prefer the result to have a constant number of characters.
 
-    The hashing mechanism must be available in PHP
-    It must be safe
-    It can use salt (in this case, are all salts equally good? Is there any way to generate good salts?)
+- The hashing mechanism must be available in PHP
+- It must be safe
+- It can use salt (in this case, are all salts equally good? Is there any way to generate good salts?)
 
 Also, should I store two fields in the database (one using MD5 and another one using SHA, for example)? Would it make it safer or unsafer?
 
 In case I wasn't clear enough, I want to know which hashing function(s) to use and how to pick a good salt in order to have a safe and fast password protection mechanism.
 ```
 <strong>And this is an example of an ineffective question: </strong>
+```
+Tag: Python
+Q: Keyboard messed up when using Pycharm as an IDE?
 
+Don't get me wrong, Pycharm is an amazing IDE, and with its faults, I've still continued to use it and adapt to its way of working. But its getting pretty tedious not being able to do what I want.
+
+Like in other IDE's, I can CTRL+A to select all the text, somehow it almost always messed up in Pycharm, copying all text will result in what ever the INSERT key does, and deletes my content.
+
+Clicking backspace doesn't delete the highlighted content, instead I have to deliperatly click the delete key, and this isn't exactly wrong, but it doesn't fit in with other IDE's.
+
+I noticed when switching from Pycharm to another IDE, I was doing what I did in Pycharm and it just felt unnatural, is there a way to make Pycharm work like other IDE's?
+```
 <h2>Relevant Audience for Relevant Answers</h2>
 Software engineers need to be able to reach the correct community to receive meaningful and relevant help. There is a large selection of communities, tags, or categories to choose from. Although they all exist with the intent to help others, community members typically don't want to spend time on irrelevant topics that are outside the scope of their knowledge or skills. Choosing the appropriate community for a specific topic is important for reaching an audience that will understand the question immediately. 
 
