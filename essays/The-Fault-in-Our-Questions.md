@@ -15,9 +15,9 @@ labels:
 Software engineering does not have to be a lonely endeavor. It's a difficult subject that involves solving a lot of problems that you often can't solve by yourself. Fortunately, there are large communities such as Stack Overflow that are there for assistance. There are wide audiences of experts with a range of skills that can help weary developers figure out a solution. Developers can succeed in software engineering by communicating their problem <strong>precisely</strong> to the <strong>correct community</strong> in order to receive an effective and meaningful answer to their problem.
 
 <h2>There is a Right and Wrong Way</h2>
-Encountering code problems may be frustrating, but developers shouldn't let that frustration leak into their questions. There is a right and wrong way to communicate a problem. The answers that are produced could be affected by the quality of the question. Smart questions are effective at communicating the problem properly for the convenience of those that are trying to answer them. Ineffective questions are an inconvenience to everyone involved. Fortunately, there are best-practices for software engineers to get the most out of the help that a community would be able to provide. 
+Encountering code problems may be frustrating, but developers shouldn't let that frustration leak into their questions. There is a right and wrong way to communicate a problem. The answers that are produced could be affected by the quality of the question. Smart questions are effective at communicating the problem properly for the convenience of those that are trying to answer them. Ineffective questions are an inconvenience to everyone involved. Fortunately, there are best-practices for software engineers to get the most out of the help that a community would be able to provide. The follow are examples of a smart question and an ineffective question that we will analyze further.
 
-Here is an example from Stack Overflow of a smart question:
+<strong>Here is an example from Stack Overflow of a smart question:</strong>
 ```
 Tag: Security
 Q: Secure hash and salt for PHP passwords
@@ -35,6 +35,7 @@ Also, should I store two fields in the database (one using MD5 and another one u
 
 In case I wasn't clear enough, I want to know which hashing function(s) to use and how to pick a good salt in order to have a safe and fast password protection mechanism.
 ```
+<strong>And this is an example of an ineffective question: </strong>
 
 <h2>Relevant Audience for Relevant Answers</h2>
 Software engineers need to be able to reach the correct community to receive meaningful and relevant help. There is a large selection of communities, tags, or categories to choose from. Although they all exist with the intent to help others, community members typically don't want to spend time on irrelevant topics that are outside the scope of their knowledge or skills. Choosing the appropriate community for a specific topic is important for reaching an audience that will understand the question immediately. 
