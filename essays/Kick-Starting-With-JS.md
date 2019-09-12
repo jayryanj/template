@@ -7,6 +7,7 @@ date: 2019-09-06
 labels:
   - Software Engineering
   - Learning
+  - JavaScript
 ---
 
 <img class="ui tiny left circular floated image" src="../images/JS_logo.png">
