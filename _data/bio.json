@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jay Ryan Jamorabon",
     "label": "Student",
-    "picture": "images/IMG_1014-2.jpg",
+    "picture": "images/portrait.jpg",
     "email": "jayryanj@hawaii.edu",
     "phone": "",
     "website": "https://jayryanj.github.io",
@@ -85,6 +85,16 @@
         "OllyDbg",
         "WinDbg",
         "x86 Assembly"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": [
+        "Cisco",
+        "DNS management",
+        "Network design",
+        "SMF & MMF cabling"
       ]
     }
   ],
