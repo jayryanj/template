@@ -20,6 +20,7 @@ Encountering code problems may be frustrating, but developers shouldn't let that
 <img class="ui image" src="../images/stackoverflow.png">
 
 <strong>Here is an example from Stack Overflow of a smart question:</strong>
+[Link](https://stackoverflow.com/questions/401656/secure-hash-and-salt-for-php-passwords)
 ```
 Tag: Security
 Q: Secure hash and salt for PHP passwords
@@ -38,6 +39,7 @@ Also, should I store two fields in the database (one using MD5 and another one u
 In case I wasn't clear enough, I want to know which hashing function(s) to use and how to pick a good salt in order to have a safe and fast password protection mechanism.
 ```
 <strong>And this is an example of an ineffective question: </strong>
+[Link](https://stackoverflow.com/questions/51451006/keyboard-messed-up-when-using-pycharm-as-an-ide)
 ```
 Tag: Python
 Q: Keyboard messed up when using Pycharm as an IDE?
