@@ -6,7 +6,7 @@
     "email": "jayryanj@hawaii.edu",
     "phone": "",
     "website": "https://jayryanj.github.io",
-    "summary": "Undergraduate student at the University of Hawaii at Manoa pursuing a BS in Computer Science - Security Science (Expected grad: Fall 2021) and an aspiring security engineer/researcher.",
+    "summary": "Undergraduate student at the University of Hawaii at Manoa pursuing a BS in Computer Science - Security Science (Expected: Fall 2021) and an aspiring security engineer/researcher.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -56,7 +56,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
@@ -68,12 +68,14 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "OS",
       "level": "",
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Kali Linux"
+        "Kali Linux",
+        "CentOS",
+        "Android"
       ]
     },
     {
@@ -81,10 +83,10 @@
       "level": "",
       "keywords": [
         "IDA",
+        "Ghidra",
         "x64dbg",
         "OllyDbg",
         "WinDbg",
-        "x86 Assembly"
       ]
     },
     {
