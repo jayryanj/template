@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/beach.jpeg
+image: images/PE_Calc_Description.png
 title: PE Section Entropy Calculator
 permalink: projects/PE-Section-Entropy-Calculator
 # All dates must be YYYY-MM-DD format!
@@ -11,14 +11,16 @@ labels:
   - Python
   - Windows
   - PE
-summary: A small utility that calculates the entropy for each section in a portable executable file to help detect packed malware
+summary: A small tool that calculates the entropy for each section in a portable executable file to help detect packed malware
 ---
 
 <img class="ui image" src="../images/PE_Calc_Description.png">
 
 <hr>
 
-I developed a simple command-line tool to help analyze malware and other programs by calculating the Shannon entropy of each individual section of the portable executable (PE) format. By calculating the entropy, the analyzer can hopefully determine whether the malware sample is packed by encrypting data within one or more of the sections. 
+I developed a simple command-line tool to help analyze malware and other programs by calculating the Shannon entropy of each individual section of the portable executable (PE) format. By calculating the entropy, the analyzer can hopefully determine whether the malware sample is packed by encrypting data within one or more of the sections.
+
+The purpose of the PE Section Entropy Calculator is to assist with analyzing malware samples. A common technique that malware authors use to avoid analysis is to obfuscate the code by packing the malware's functionality in one or more sections of the malware's binary. The code is encrypted, compressed, or obfuscated in such a way to avoid static analysis. The code is then placed in one or more sections, and a routine for unpacking the code will be placed in the .text section to unpack the code only at run-time. The presence of encrypted or compressed data can be analyzed using statistics. In this case, the tool uses the Shannon entropy of each section to help determine whether a section may be encrypted or compressed.
 
 <img class="ui image" src="../images/PE_Calc_PE_Format.jpg">
 
