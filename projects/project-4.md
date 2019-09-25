@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PE_Calc_Description.png
+image: images/PE_Calc_All.png
 title: PE Section Entropy Calculator
 permalink: projects/PE-Section-Entropy-Calculator
 # All dates must be YYYY-MM-DD format!
