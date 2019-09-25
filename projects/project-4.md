@@ -10,7 +10,8 @@ labels:
   - Software
   - Python
   - Windows
-  - PE
+  - Portable Executable
+  - Malware Analysis
 summary: A small tool that calculates the entropy for each section in a portable executable file to help detect packed malware
 ---
 
