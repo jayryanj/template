@@ -12,7 +12,7 @@ labels:
   - HTML
   - CSS
 ---
-
+<img class="ui small image" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461315888semantic.png">
 The world of web development is brighter with frameworks. Creating websites with pure HTML and CSS has been one of the most toxic experiences. Creating a full-fledged website was often difficult, problematic, and ugly. When I discovered frameworks, it seemed like my web development life had taken a turn for the best. User-interface frameworks are very useful tools that allow software engineers quickly create consistent code that is understandable, arguably more readable, and extendible in comparison to using pure HTML and CSS.
 
 # Consistency is Key
@@ -21,5 +21,5 @@ First of all, UI frameworks allows us to create consistent code with similar pro
 # Got to Go Fast
 Furthermore, creating usable web page interfaces can be done quickly using UI frameworks. Purely-written HTML and CSS web pages are tediously built. It takes up so much precious time to create something simple like a dropdown menu, and the results are often not worth it. Using a framework such as Semantic-UI saves a lot of time by cutting down the need to write all the CSS for every element. CSS styles can often grow to be extremely long for a simple UI component. Frameworks automate much of the implementation for software engineers. In the world of development, time is important for efficency. 
 
-# 
+# Readability and Extendibility
 In addition to saving time, using a UI framework allows us to create code that is arguably more readable and extendible. Pure HTML and CSS source code is ugly. It looks ugly on the page and it looks ugly in the source. UI frameworks improves the readability of web page source code. Instead of using finnicky HTML and CSS code, Semantic-UI uses div tags with classes that are easy to read and understand its purpose. Frameworks improve the look of the page's source code so that other developers have a easier time understanding the content. Since frameworks improve readability, they also improve the source code to be more extendible. UI frameworks are great because it lays down a solid foundation for pages that can be extended. Other developers can add user-interface components by simply using the framework again. UI frameworks make our lives as software engineers easier by improving the readability and extendibility of web pages. 
