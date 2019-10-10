@@ -13,6 +13,8 @@ labels:
   - CSS
 ---
 <img class="ui small image" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461315888semantic.png">
+<img class="ui small image" src="https://themes.getbootstrap.com/wp-content/uploads/2018/02/Bootstrap-logo.png">
+
 The world of web development is brighter with frameworks. Creating websites with pure HTML and CSS has been one of the most toxic experiences. Creating a full-fledged website was often difficult, problematic, and ugly. When I discovered frameworks, it seemed like my web development life had taken a turn for the best. User-interface frameworks are very useful tools that allow software engineers quickly create consistent code that is understandable, arguably more readable, and extendible in comparison to using pure HTML and CSS.
 
 # Consistency is Key
