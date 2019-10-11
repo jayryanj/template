@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Frameworks Make the Dream Work
 # All dates must be YYYY-MM-DD format!
-date: 2019-10-09
+date: 2019-10-10
 labels:
   - Software Engineering
   - Semantic-UI
