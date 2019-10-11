@@ -12,7 +12,7 @@ labels:
   - HTML
   - CSS
 ---
-<img class="ui centered medium image" src="https://hackernoon.com/hn-images/1*ruk9c2uz62aEdb8Nm5PWHw.jpeg">
+<img class="ui centered image" src="https://hackernoon.com/hn-images/1*ruk9c2uz62aEdb8Nm5PWHw.jpeg">
 
 The world of web development is brighter with frameworks. Creating websites with pure HTML and CSS has been one of the most toxic experiences. Creating a full-fledged website was often difficult, problematic, and ugly. When I discovered frameworks, it seemed like my web development life had taken a turn for the best. User-interface frameworks are very useful tools that allow software engineers quickly create consistent code that is understandable, arguably more readable, and extendible in comparison to using pure HTML and CSS.
 
