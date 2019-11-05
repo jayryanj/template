@@ -1,9 +1,9 @@
-
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
-date: 2019-11-05
+title: Final Project Idea
+# All dates must be YYYY-MM-DD format!
+date: 2019-11-5
 labels:
   - Software Engineering
   - Meteor
