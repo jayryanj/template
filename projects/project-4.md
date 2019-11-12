@@ -18,7 +18,7 @@ summary: A small command-line tool that performs static analysis on Windows port
 <img class="ui image" src="../images/PE_Calc_Description.png">
 
 <hr>
-
+# Note: As of 11/12/19, this project is currently being overhauled, so this page is a work-in-progress and is subject to a lot of change
 Originally, I developed a simple command-line tool to help analyze malware and other programs by calculating the entropy of each individual section of the portable executable (PE). By calculating the entropy, the analyzer could hopefully determine whether the malware sample is packed by encrypting data within one or more of the sections. However, I have since expanded the functionality of the program, and I'm currently working on turning the script into a general analysis tool.
 
 The purpose of the PEep is to assist with analyzing malware samples. A common technique that malware authors use to avoid analysis is to obfuscate the code by packing the malware's functionality in one or more sections of the malware's binary. The code is encrypted, compressed, or obfuscated in such a way to avoid static analysis. The code is then placed in one or more sections, and a routine for unpacking the code will be placed in the .text section to unpack the code only at run-time. The presence of encrypted or compressed data can be analyzed using statistics. In this case, the tool uses the Shannon entropy of each section to help determine whether a section may be encrypted or compressed.
