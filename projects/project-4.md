@@ -15,7 +15,7 @@ labels:
 summary: A small command-line tool that performs static analysis on Windows portable executable (PE) files with the intent of assisting with basic static analysis of malicious programs.
 ---
 
-<img class="ui image" src="../images/PE_Calc_Description.png">
+<img class="ui image" src="../images/PEep_Description.png">
 
 <hr>
 # Note: As of 11/12/19, this project is currently being overhauled, so this page is a work-in-progress and is subject to a lot of change
