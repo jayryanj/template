@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PE_Calc_All.png
+image: images/PEep_Art.png
 title: PEep
 permalink: projects/PEep
 # All dates must be YYYY-MM-DD format!
