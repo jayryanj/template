@@ -63,6 +63,8 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML",
+        "CSS",
         "x86 Assembly",
         "Python"
       ]
@@ -97,6 +99,16 @@
         "DNS management",
         "Network design",
         "SMF & MMF cabling"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Semantic-UI",
+        "React",
+        "Meteor",
+        "Angular"
       ]
     }
   ],

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Building Software
+title: Stacking Up the Software
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
