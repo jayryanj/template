@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/textXchange_logo.jpg
+image: images/textXchange_logo.png
 title: textXchange
 permalink: projects/textXchange
 # All dates must be YYYY-MM-DD format!
