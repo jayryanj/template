@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Agile Software Development
   - Frameworks
-  - Communication
 ---
 
 <img class="ui images" src="https://cdn-images-1.medium.com/max/842/0*jamo36fjvVMf5ctz." alt="stack">
