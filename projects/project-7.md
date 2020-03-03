@@ -11,7 +11,7 @@ labels:
   - Web Application
   - Java
   - JavaScript
-summary: A web application to assist IT staff with keeping inventory and managing data center devices.
+summary: IAM web app for creating and managing groupings
 ---
 
 <img class="ui image" src="../images/uhgroupings_landing.png">
