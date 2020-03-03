@@ -13,7 +13,6 @@ labels:
   - JavaScript
 summary: A web application to assist IT staff with keeping inventory and managing data center devices.
 ---
-#UH Groupings
 
 <img class="ui image" src="../images/uhgroupings_landing.png">
 
