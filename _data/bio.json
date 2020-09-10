@@ -65,7 +65,6 @@
         "Javascript",
         "HTML",
         "CSS",
-        "x86 Assembly",
         "Python"
       ]
     },
@@ -105,10 +104,13 @@
       "name": "Web Development",
       "level": "",
       "keywords": [
-        "Semantic-UI",
         "React",
         "Meteor",
-        "Angular"
+        "Node.js",
+        "Spring",
+        "Angular",
+        "Semantic-UI",
+        "Bootstrap"
       ]
     }
   ],
@@ -125,6 +127,33 @@
     }
   ],
   "work": [
+   {
+      "company": "UH Information Technology Services",
+      "position": "Web Application Developer",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2019-07-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Member of the Identity and Access Managemnt Web App Development Team (IWT).",
+        "Develop code for the application's API using the Spring framework and RESTful design.",
+        "Write JUnit tests and code documentation."
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Data Center Tech",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2019-07-05",
+      "endDate": "2020-01-04",
+      "summary": "",
+      "highlights": [
+        "Worked as part of a team to support and maintain the University of Hawaii data center operations.",
+        "Regularly installed network devices and equipment to uphold the university's technology infrastructure.",
+        "Use data center management software to track network devices and audit hardware.",
+        "Network monitoring and troubleshooting."
+      ]
+    },
     {
       "company": "National Astronomical Observatory of Japan - Subaru Telescope",
       "position": "Software Engineering Intern",
@@ -135,20 +164,6 @@
       "highlights": [
         "Developed an integrated status monitor for the telescope's Hyper-Suprime Cam instrument system to monitor parameters such as the shutter position, filter exchange unit, and data read-out during observation.",
         "Collaborated with a team of astronomers and instrument research specialist to design the implementation and graphical user interface of the software."
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Data Center Tech",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2019-07-05",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Worked as part of a team to support and maintain the University of Hawaii data center operations.",
-        "Regularly installed network devices and equipment to uphold the university's technology infrastructure.",
-        "Use data center management software to track network devices and audit hardware.",
-        "Network monitoring and troubleshooting."
       ]
     }
   ],
