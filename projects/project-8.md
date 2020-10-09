@@ -14,7 +14,7 @@ labels:
 summary: A web tool for checking a URL for threats.
 ---
 
-<img class="ui image" src="../images/uhgroupings_landing.png">
+<img class="ui image" src="../images/URLookup_landing.png">
 
 URLookup is a small web application focused on the security of the web regarding URLs. Links can be dangerous, and most users don't know that they are until after they've already clicked on it. URLookup allows users to submit suspicious URLs to check for any possible threats and present easy-to-read results.
 
