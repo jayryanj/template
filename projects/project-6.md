@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/uhDCIM_logo.png
-title: uhDCIM
-permalink: projects/uhDCIM
+title: DCIM@Hawaii
+permalink: projects/DCIMHawaii
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-23
 labels:
@@ -20,10 +20,11 @@ summary: A web application to assist IT staff with keeping inventory and managin
 
 <img class="ui image" src="../images/uhDCIM_landing.png">
 
-This project is still heavily under development. This page is a placeholder and will be updated as development progresses.
+DCIM@Hawaii is a web app designed to assist the management and organization of data center devices such as routers, servers, switches, and other devices used in IT infrastructure. 
 
-The project was developed using React and Semantic-UI frameworks for front-end and Express.js for back-end. User data is stored using MongoDB.
+The project was developed using React and Semantic-UI for front-end and Express.js for back-end. User and device data is stored using MongoDB.
 
+Note: Due to DCIM@Hawaii primarily being a proprietary tool for the data center department at the University of Hawaii, development has ceased since my transfer to a different department.
 
 
 
