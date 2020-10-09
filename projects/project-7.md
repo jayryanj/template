@@ -11,7 +11,7 @@ labels:
   - Web Application
   - Java
   - JavaScript
-summary: IAM web app for creating and managing groupings
+summary: UH ITS IAM web app for creating and managing groupings
 ---
 
 <img class="ui image" src="../images/uhgroupings_landing.png">
