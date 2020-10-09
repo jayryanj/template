@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/uhgroupings_logo.png
+image: images/URLookup_logo.png
 title: URLookup
-permalink: projects/testuhgroupings
+permalink: projects/urlookup
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-23
 labels:
   - Software
   - Web Application
-  - Java
   - JavaScript
-summary: Web app for checking a URL for threats.
+  - Security
+summary: A web tool for checking a URL for threats.
 ---
 
 <img class="ui image" src="../images/uhgroupings_landing.png">
