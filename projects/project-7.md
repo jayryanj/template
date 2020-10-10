@@ -5,7 +5,7 @@ image: images/uhgroupings_logo.png
 title: UH Groupings
 permalink: projects/uhgroupings
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-23
+date: 2020-04-10
 labels:
   - Software
   - Web Application

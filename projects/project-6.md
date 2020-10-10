@@ -11,8 +11,6 @@ labels:
   - Web Application
   - React
   - Express.js
-  - Semantic-UI
-  - MongoDB
   - IT Management
 summary: A web application to assist IT staff with keeping inventory and managing data center devices.
 ---

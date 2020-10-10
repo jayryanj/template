@@ -5,7 +5,7 @@ image: images/textXchange_logo.png
 title: textXchange
 permalink: projects/textXchange
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-23
+date: 2019-11-28
 labels:
   - Software
   - Web Application
