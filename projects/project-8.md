@@ -5,7 +5,7 @@ image: images/URLookup_logo.png
 title: URLookup
 permalink: projects/urlookup
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-23
+date: 2020-10-06
 labels:
   - Software
   - Web Application
