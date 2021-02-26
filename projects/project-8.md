@@ -37,11 +37,12 @@ Other:
 - Git/GitHub
 - Heroku
 
-For links to the deployed site and the Github repo, see below.
+Due to costs for keeping the project live, URLookup was pulled off deployment from the Heroku cloud platform. This project is no longer being developed.
+For links the Github repo, see below.
 
 Links:
 - [URLookup Github Repo](https://github.com/jayryanj/URLookup)
-- [Deployed Site on Heroku](https://urlookup.herokuapp.com/)
+
 
 
 
