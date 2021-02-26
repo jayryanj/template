@@ -10,6 +10,7 @@ labels:
   - Software
   - Python
   - Astronomy
+  - Engineering
 summary: Developed an integrated status monitor for the Subaru Telescope's Hyper-Suprime Cam instrument.
 ---
 
@@ -26,4 +27,10 @@ Here is the flowchart that illustrates the procedure for monitoring the data rea
 
 <img class="ui image" src="../images/Read.png">
 
+To read status data from the shutter, the sensor controller uses Panasonic's MEWTOCOL communication protocol. I learned how to parse messages using this protocol and implementing it in Python. A simplified image of the MEWTOCOL message formats are shown below:
+
+<img class="ui image" src="../images/HSC-mewtocol.png">
+
 From this project, I learned a lot about the software engineering process. I went through stages of planning, collaborating with users, development, unit testing, and documentation. I learned how to effectively communicate in a team with members that have a variety of backgrounds. After the project was completed, I presented my work in front of a crowd. This gave me very valuable experience with communicating technical aspects of a project. 
+
+Since the project was proprietary, the code is not open-source.
