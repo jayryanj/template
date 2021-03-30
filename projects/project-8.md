@@ -50,7 +50,7 @@ Other:
 
 Links:
 - [URLookup Github Repo](https://github.com/jayryanj/URLookup)
-- [Deployed on AWS](http://urlookup.us-west-2.elasticbeanstalk.com/)
+- [Deployed on AWS](http://www.urlookup.com/)
 
 
 
