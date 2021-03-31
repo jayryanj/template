@@ -28,7 +28,7 @@ From conception, I chose the MERN stack (excluding MongoDB) for URLookup because
 
 ## Deployment to AWS
 URLookup was initially deployed to Heroku; however, the project has since been migrated to AWS. (Link is at the bottom of the page)
-The project is built and deployed using AWS Elastic Beanstalk so I can simplify management and focus on development. I established continouous delivery by creating a connection to the GitHub repo using AWS CodePipeline. 
+The project is built and deployed using AWS Elastic Beanstalk so I can simplify management and focus on development. I established continouous delivery by creating a connection to the GitHub repo using AWS CodePipeline. Furthermore, I transferred my custom domain to AWS Route 53 where I configured the domain's A record to resolve to my Elastic Beanstalk instance.
 
 
 ## Technologies
@@ -43,7 +43,7 @@ Back-end:
 - Express.js
 
 Other:
-- AWS
+- AWS - Elastic Beanstalk, CodePipeline, Route 53
 - Heroku
 - Git/GitHub
 
@@ -51,10 +51,3 @@ Other:
 Links:
 - [URLookup Github Repo](https://github.com/jayryanj/URLookup)
 - [Deployed on AWS](http://www.urlookup.com/)
-
-
-
-
-
-
-
